@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KwakuAldo
 - 👀 I’m interested in web development and software programming.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any projects that can give me a feel of real life work and experience
 - 📫 How to reach me , Kwaku_Aldo on slack, @TheGrand_Rascal on twitter, and akadabunu@gmail.com
 
